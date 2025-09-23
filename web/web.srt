@@ -151,11 +151,11 @@ Uptown, please. I'll tell you where in a minute.
 
 32
 00:05:03,200 --> 00:05:09,240
-{\an2}（到中央车站买火车票去波基普西）
+{\an8}（到中央车站买火车票去波基普西）
 
 33
 00:05:10,870 --> 00:05:13,560
-{\an2}（到那儿等进一步指示）
+{\an8}（到那儿等进一步指示）
 
 34
 00:06:00,150 --> 00:06:03,140
@@ -1821,12 +1821,12 @@ So, you were, too? Go ahead.
 
 372
 00:35:07,200 --> 00:35:09,650
-“他们找你也别回应”
+“他们找您也别回应”
 Do not respond if they contact you.
 
 373
 00:35:09,680 --> 00:35:12,750
-“他们可能恐吓你 也可能想谈交易”
+“他们可能恐吓您 也可能想谈交易”
 They may try to scare you, and they may try to make a deal.
 
 374
@@ -2533,7 +2533,7 @@ Ideally, somewhere in this country you can reach
 
 516
 00:46:02,020 --> 00:46:04,510
-“这样他们就难追踪到你”
+“这样他们就难追踪到您”
 by public transportation so they can't track you.
 
 517
@@ -2992,7 +2992,7 @@ What?
 
 611
 00:53:35,170 --> 00:53:38,810
-老兄 别这样 你又在忽悠我
+老兄 别这样 又在忽悠我
 Bro, come on, man. You always bullshitting me, bro.
 
 612
@@ -3478,7 +3478,7 @@ Tick-tock, motherfucker.
 
 710
 01:02:24,660 --> 01:02:28,610
-“你确认过所有文件已经完整寄出”
+“您确认过所有文件已经完整寄出”
 "You told us that you had sent all the relevant documents."
 
 711
@@ -3513,11 +3513,11 @@ I just didn't think.
 
 717
 01:02:47,790 --> 01:02:49,500
-{\an8}（你手上还有吗？）
+{\an8}（您手上还有吗？）
 
 718
 01:02:48,180 --> 01:02:49,670
-“你手上还有吗？”
+“您手上还有吗？”
 "Do you still have it?"
 
 719
@@ -3532,7 +3532,7 @@ I will send it to you like before. Go ahead.
 
 721
 01:02:55,200 --> 01:02:58,030
-“来不及了 我们警告过你”
+“来不及了 我们警告过您”
 "Takes too long. You were warned.
 
 722
@@ -3933,7 +3933,7 @@ Hello?
 
 802
 01:09:54,890 --> 01:09:57,590
-“在那之前 你每天打一次电话”
+“在那之前 您每天打一次电话”
 Until then, you'll call each day once
 
 803
@@ -4422,7 +4422,7 @@ You will receive further instructions then.
 
 901
 01:16:33,180 --> 01:16:34,620
-“你明白了吗？”
+“明白了吗？”
 "Do you understand?"
 
 902
@@ -4530,7 +4530,7 @@ got a positive ID of you in Times Square.
 
 923
 01:18:12,390 --> 01:18:16,030
-他们告诉我你的名字叫 詹姆斯·基顿
+他们告诉我你叫 詹姆斯·基顿
 They told me your name. James Keaton.
 
 924
@@ -5505,7 +5505,7 @@ It's a little heavy there.
 {\an8}（波基普西站）
 
 1120
-01:45:51,430 --> 01:45:57,347
+01:45:51,430 --> 01:45:57,350
 {\an8}（突发快讯 奥蒂莫制药因重大造假被调查）
 
 1121
@@ -5531,7 +5531,7 @@ It's a little heavy there.
 Telegram和IRC交流群：MontageSubs
 
 1125
-01:46:56,826 --> 01:46:59,160
+01:46:56,830 --> 01:46:59,160
 {\an8}摄影
 吉尔斯·纳金斯
 
@@ -5542,7 +5542,7 @@ Telegram和IRC交流群：MontageSubs
 
 1127
 01:47:09,340 --> 01:47:11,640
-{\an8}配乐
+{\an8}配音
 托尼·杜根
 
 1128
