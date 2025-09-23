@@ -781,7 +781,7 @@ Speak directly to the caller and say, "Go ahead,"
 
 161
 00:18:17,500 --> 00:18:19,180
-请说“请传达”
+请说「请传达」
 when you're ready for a response.
 
 162
@@ -821,7 +821,7 @@ Yes.
 
 169
 00:18:49,270 --> 00:18:51,040
-说完请说“请传达”
+说完请说「请传达」
 If finished, please respond with "Go ahead."
 
 170
@@ -1093,7 +1093,7 @@ Okay. 339 East Avenue, Yonkers, New York.
 
 224
 00:21:57,140 --> 00:22:00,220
-晚上外勤 谁来？
+夜班外勤 谁来？
 Night shift. Who's coming?
 
 225
@@ -2319,7 +2319,7 @@ Well, my name is Steve Dawson. Don't look it up. It's not real.
 
 473
 00:43:20,190 --> 00:43:24,210
-我们小组负责把文件追回 请传达
+我们小队负责把文件追回 请传达
 And my team is tasked with returning the documents. Go ahead.
 
 474
@@ -2806,7 +2806,7 @@ we will issue further instructions.
 
 571
 00:49:21,240 --> 00:49:24,900
-“要是拖延 文件就曝光”
+“要是拖延 文件就会曝光”
 "Any delay and the document goes public."
 
 572
@@ -3636,7 +3636,7 @@ Everything happened so fast. Um, I'll come back for it.
 
 742
 01:06:07,500 --> 01:06:11,590
-“到那会儿就没了 你知道有人在跟踪你吗？”
+“太迟了 你知道有人在跟踪你吗？”
 "It'll be gone by then. Did you know you were being followed?"
 
 743
@@ -4357,7 +4357,7 @@ and broken.
 
 888
 01:15:20,870 --> 01:15:24,920
-老实说 我觉得他熬不过了
+老实说 我觉得他熬不过去了
 And I don't think he's gonna make it, honestly.
 
 889
@@ -4560,7 +4560,7 @@ Fuck!
 
 929
 01:18:26,540 --> 01:18:30,530
-市政礼堂有一场舒伯特钢琴音乐会
+市政礼堂有一场舒伯特音乐会
 There's a concert of Schubert's Piano Trios at town hall.
 
 930
@@ -5047,7 +5047,7 @@ so they won't publish in a hurry.
 
 1027
 01:28:57,070 --> 01:28:59,460
-剩下的不过是网上的谣言
+只能发网上当谣言了
 And that leaves the conspiracy theorists on social media.
 
 1028
@@ -5116,7 +5116,7 @@ You really think you have a choice?
 
 1041
 01:30:59,530 --> 01:31:00,800
-喂
+说
 Yeah?
 
 1042
@@ -5151,7 +5151,7 @@ I'm fine.
 
 1048
 01:32:27,430 --> 01:32:28,920
-文件地址在哪？
+文件在哪？
 Where's the documents?
 
 1049
