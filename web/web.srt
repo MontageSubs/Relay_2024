@@ -1585,7 +1585,7 @@ Passenger Sarah Grant, please report to Gate A29.
 
 324
 00:31:45,160 --> 00:31:47,890
-别想让我再做你们的飞机了
+别想让我再坐你们的飞机了
 I'm never flying your airline again.
 
 325
@@ -1748,7 +1748,7 @@ Yep. Yep.
 
 357
 00:34:22,470 --> 00:34:24,300
-你猜我这么看
+你猜我怎么看
 You know what I think?
 
 358
@@ -2563,7 +2563,7 @@ Um, is it okay if I spend some time outside? Go ahead.
 
 522
 00:46:23,540 --> 00:46:25,560
-“那帮人应该不会再缠您了”
+“那帮人应该不会再纠缠您了”
 "They should leave you alone.
 
 523
@@ -5017,7 +5017,7 @@ Listen, let her go. All right?
 
 1021
 01:28:43,760 --> 01:28:47,320
-不然文件都要曝 所有的 听见没？
+不然所有的文件都会曝光 听见没？
 The documents are going out, all of them. You hear me?
 
 1022
@@ -5047,7 +5047,7 @@ so they won't publish in a hurry.
 
 1027
 01:28:57,070 --> 01:28:59,460
-只能剩下当网上谣言了
+剩下的不过是网上的谣言
 And that leaves the conspiracy theorists on social media.
 
 1028
@@ -5151,7 +5151,7 @@ I'm fine.
 
 1048
 01:32:27,430 --> 01:32:28,920
-文件地点在哪了？
+文件地址在哪？
 Where's the documents?
 
 1049
@@ -5166,7 +5166,7 @@ Stop.
 
 1051
 01:32:36,100 --> 01:32:38,400
-想拿文件就得留我们两条活命
+想拿文件就得让我们俩都活着
 You want the documents, you need us both alive.
 
 1052
@@ -5345,7 +5345,7 @@ Don't kill him. We need the code.
 
 1087
 01:38:06,640 --> 01:38:08,510
-他正穿铁路 快追！
+他正在穿过铁轨 快追！
 He's crossing the tracks. Go!
 
 1088
@@ -5365,12 +5365,12 @@ Give me the code, and I'll let you go.
 
 1091
 01:40:24,090 --> 01:40:25,900
-我会开的
+我会开枪的
 I'll do it.
 
 1092
 01:40:43,530 --> 01:40:45,370
-开吧
+开枪吧
 Do it.
 
 1093
