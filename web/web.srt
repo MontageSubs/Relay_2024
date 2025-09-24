@@ -649,47 +649,47 @@ Two new messages.
 
 134
 00:15:46,170 --> 00:15:49,740
-我是霍夫曼 一切安好
+“我是霍夫曼 一切安好”
 Hoffman here. All right.
 
 135
 00:15:50,400 --> 00:15:52,190
-我叫莎拉·格兰特
+“我叫莎拉·格兰特
 My name is Sarah Grant.
 
 136
 00:15:52,210 --> 00:15:55,120
-曾在一家生物科技公司任职科学家
+“曾在一家生物科技公司任职科学家
 Um, I was a scientist working at a bio tech company,
 
 137
 00:15:55,150 --> 00:15:56,860
-是赛博育种
+“是赛博育种
 Cybo Sementis.
 
 138
 00:15:56,880 --> 00:15:59,770
-我 我手里有些资料
+“我 我手里有些资料
 I... I'm in possession of materials
 
 139
 00:15:59,790 --> 00:16:02,970
-能证明他们掩盖违法行为
+“能证明他们掩盖违法行为
 which are evidence of an unlawful cover-up.
 
 140
 00:16:03,120 --> 00:16:06,160
-我本来想公之于众 现在反悔了
+“我本来想公之于众 现在反悔了
 I was gonna go public, but I changed my mind.
 
 141
 00:16:06,190 --> 00:16:10,360
-告诉我该怎么办 我会全力配合
+“告诉我该怎么办 我会全力配合
 I don't know how this works, but I'll do whatever is necessary.
 
 142
 00:16:10,390 --> 00:16:16,830
-我的电话是693-824-4011
+“我的电话是693-824-4011”
 My number is 693-824-4011.
 
 143
@@ -804,17 +804,17 @@ One moment for your call to begin.
 
 166
 00:18:25,850 --> 00:18:27,310
-“您叫莎拉·伊丽莎白·格兰特”
+“您叫莎拉·伊丽莎白·格兰特
 "You are Sarah Elizabeth Grant.
 
 167
 00:18:27,330 --> 00:18:31,640
-“社保号是958-00-4493”
+“社保号是958-00-4493
 Your Social Security number is 958-00-4493."
 
 168
 00:18:36,650 --> 00:18:39,360
-“曾受雇于赛博育种研究所”
+“曾受雇于赛博育种研究所
 "You were employed by Cybo Sementis Research Institutes,
 
 169
@@ -1027,17 +1027,17 @@ Go ahead.
 
 211
 00:21:06,960 --> 00:21:09,240
-“买个一次性手机”
+“买个一次性手机
 "Buy a prepaid cellphone,
 
 212
 00:21:09,260 --> 00:21:12,010
-“关机 到公共场所再开机”
+“关机 到公共场所再开机
 keep it switched off till you get to a public place,
 
 213
 00:21:12,030 --> 00:21:14,100
-“然后留言告诉我您的新号码”
+“然后留言告诉我您的新号码
 then leave a message with your new number,
 
 214
@@ -1057,7 +1057,7 @@ I think they're watching me. Go ahead.
 
 217
 00:21:27,100 --> 00:21:29,400
-“他们可能在窃听”
+“他们可能在窃听
 "They may be tapping this call.
 
 218
@@ -1081,7 +1081,7 @@ Thank you for using the Tri-State Relay Service. Have a wonderful night.
 
 222
 00:21:46,140 --> 00:21:48,750
-“楼下停着辆大面包”
+“楼下停着辆大面包
 There's a van parked out front.
 
 223
@@ -1229,7 +1229,7 @@ Yes. Go ahead.
 
 252
 00:24:53,700 --> 00:24:56,850
-“我们了解了您的情况 方案如下”
+“我们了解了您的情况 方案如下
 "After reviewing your situation, here's the deal."
 
 253
@@ -1238,17 +1238,17 @@ Yes. Go ahead.
 
 254
 00:24:57,060 --> 00:25:01,570
-“帮您把文件交回 还留筹码来保护您”
+“帮您把文件交回 还留筹码来保护您
 We can help you return the documents whilst maintaining leverage to protect you.
 
 255
 00:25:01,590 --> 00:25:04,680
-“先付五万美元押金”
+“先付五万美元押金
 We require a $50,000 deposit up front.
 
 256
 00:25:04,700 --> 00:25:09,070
-“押金最后从和解款中退给您”
+“押金最后从和解款中退给您
 This will be returned to you from money we recover during the negotiation process.
 
 257
@@ -1263,32 +1263,32 @@ Yes. Go ahead.
 
 259
 00:25:13,090 --> 00:25:14,460
-“接下来几天”
+“接下来几天
 "Over the next few days,"
 
 260
 00:25:14,480 --> 00:25:16,360
-“您会收到些看似奇怪的要求”
+“您会收到些看似奇怪的要求
 you will receive some strange requests
 
 261
 00:25:16,380 --> 00:25:18,390
-“目的是摸清对手”
+“目的是摸清对手
 designed to show us what we're up against.
 
 262
 00:25:18,410 --> 00:25:21,730
-“不管要求多奇怪都请照做”
+“不管要求多奇怪都请照做
 Please follow all instructions no matter how odd.
 
 263
 00:25:21,750 --> 00:25:24,870
-“今后每次通话都要对暗号”
+“今后每次通话都要对暗号
 In the future, we will use a passcode before each conversation.
 
 264
 00:25:24,890 --> 00:25:27,000
-“我们会问「信用卡还是借记卡」”
+“我们会问「信用卡还是借记卡」
 We will say, 'Credit or debit?'
 
 265
@@ -1372,27 +1372,27 @@ Check. Go ahead.
 
 281
 00:27:13,760 --> 00:27:17,620
-“明早先坐纽瓦克10:05的航班飞匹兹堡”
+“明早先坐纽瓦克10:05的航班飞匹兹堡
 "Tomorrow morning, take the 10:05 flight from Newark to Pittsburgh,
 
 282
 00:27:17,620 --> 00:27:20,080
-“然后在11:50转飞亚特兰大”
+“然后在11:50转飞亚特兰大
 then the 11:50 to Atlanta.
 
 283
 00:27:20,080 --> 00:27:22,580
-“别带这部手机”
+“别带这部手机
 Do not take this phone with you.
 
 284
 00:27:22,580 --> 00:27:24,660
-“带上装押金和报告的信封”
+“带上装押金和报告的信封
 Take the packages with our deposit
 
 285
 00:27:24,680 --> 00:27:26,820
-“还有您收到的那台红标手机”
+“还有您收到的那台红标手机
 and the report and the red-marked phone you were sent.
 
 286
@@ -1569,7 +1569,7 @@ Passenger Sarah Grant, please come to the Lost-property counter.
 
 321
 00:31:19,440 --> 00:31:23,260
-“去D廊的邮局 把两个信封都寄了”
+“去D廊的邮局 把两个信封都寄了
 "Go to the post office in concourse D and mail both packages."
 
 322
@@ -1800,7 +1800,7 @@ Check. Go ahead.
 
 368
 00:34:45,880 --> 00:34:48,810
-“干得好 请确认文件已经完整寄出”
+“干得好 请确认文件已经完整寄出
 "Good job. Please confirm that you've sent all the documents
 
 369
@@ -1825,27 +1825,27 @@ So, you were, too? Go ahead.
 
 373
 00:35:05,250 --> 00:35:07,180
-“不要主动联系那帮人”
+“不要主动联系那帮人
 "Do not contact them yourself."
 
 374
 00:35:07,200 --> 00:35:09,650
-“他们找您也别回应”
+“他们找您也别回应
 Do not respond if they contact you.
 
 375
 00:35:09,680 --> 00:35:12,750
-“他们可能恐吓您 也可能想谈交易”
+“他们可能恐吓您 也可能想谈交易
 They may try to scare you, and they may try to make a deal.
 
 376
 00:35:12,770 --> 00:35:14,770
-“我是您唯一的出路”
+“我是您唯一的出路
 But this is the only deal.
 
 377
 00:35:14,790 --> 00:35:18,000
-“包裹一到 我们会跟他们谈判”
+“包裹一到 我们会跟他们谈判
 Once the packages arrive, we will make them an offer.
 
 378
@@ -1870,32 +1870,32 @@ And you'll be there? Go ahead.
 
 382
 00:35:34,350 --> 00:35:37,430
-“您永远见不到我们 我们不是保镖”
+“您永远见不到我们 我们不是保镖
 "You will never meet us. We are not bodyguards."
 
 383
 00:35:37,450 --> 00:35:39,280
-“我们是中介”
+“我们是中介
 We are intermediaries.
 
 384
 00:35:39,300 --> 00:35:41,850
-“我们会安排归还原件事宜”
+“我们会安排归还原件事宜
 We will broker a deal to return the original documents
 
 385
 00:35:41,870 --> 00:35:43,520
-“同时留一份备份做保险”
+“同时留一份备份做保险
 and retain one safety copy
 
 386
 00:35:43,540 --> 00:35:46,950
-“确保赛博育种遵守协议”
+“确保赛博育种遵守协议
 to make sure Cybo Sementis sticks to that deal.
 
 387
 00:35:46,980 --> 00:35:50,120
-“按我们的指示做 您会被保护”
+“按我们的指示做 您会被保护
 Follow our instructions, and you will be protected.
 
 388
@@ -1910,12 +1910,12 @@ I understand. Go ahead.
 
 390
 00:35:59,690 --> 00:36:02,070
-“您的旧手机已被攻破”
+“您的旧手机已被攻破
 "Your old phone will be compromised."
 
 391
 00:36:02,090 --> 00:36:04,540
-“把它泡在盐水报废”
+“把它泡盐水里报废
 Put it in a pan of salt water.
 
 392
@@ -2163,62 +2163,62 @@ because they're different services.
 
 442
 00:40:22,750 --> 00:40:25,490
-“富兰克林先生 请注意”
+“富兰克林先生 请注意
 "This is a message for Mr. Franklin.
 
 443
 00:40:25,520 --> 00:40:28,530
-“贵司前员工莎拉·格兰特把一份”
+“贵司前员工莎拉·格兰特把一份
 We've been given a copy of a food safety assessment
 
 444
 00:40:28,550 --> 00:40:32,360
-“关于新月沃土小麦项目的”
+“关于新月沃土小麦项目的
 of Cybo Sementis's Fertile Crescent wheat program
 
 445
 00:40:32,380 --> 00:40:37,050
-“食品安全评估交给了我们”
+“食品安全评估交给了我们
 by Sarah Grant, a former employee of yours, who has engaged our services.
 
 446
 00:40:37,070 --> 00:40:41,480
-“文件有311页 带两个附录”
+“文件有311页 带两个附录
 It is 311 pages long and contains two appendices.
 
 447
 00:40:41,500 --> 00:40:45,290
-“只要你们无条件承诺别再骚扰她”
+“只要你们无条件承诺别再骚扰她
 In exchange for your unconditional agreement to leave her alone,
 
 448
 00:40:45,310 --> 00:40:47,120
-“我们客户愿意归还文件”
+“我们客户愿意归还文件
 our client would like to return this document
 
 449
 00:40:47,140 --> 00:40:49,310
-“并保证永不提及”
+“并保证永不提及
 "and agree never to mention it again."
 
 450
 00:41:44,570 --> 00:41:46,540
-“我们客户愿意归还文件”
+“我们客户愿意归还文件
 "Our client would like to return this document
 
 451
 00:41:46,560 --> 00:41:48,470
-“并保证永不提及”
+“并保证永不提及
 and agree never to mention it again.
 
 452
 00:41:48,500 --> 00:41:52,050
-“与她的一切沟通由我们代表”
+“与她的一切沟通由我们代表
 All communication with her must come through us.
 
 453
 00:41:52,070 --> 00:41:55,750
-“请在646‑167‑1573留言”
+“请在646‑167‑1573留言
 Leave a message on 646-167-1573.
 
 454
@@ -2258,7 +2258,7 @@ Have you received a relay call before?
 
 461
 00:42:35,800 --> 00:42:39,220
-“你们在骚扰我们的客户莎拉·格兰特”
+“你们在骚扰我们的客户莎拉·格兰特
 "You've been harassing our client, Sarah Grant.
 
 462
@@ -2278,12 +2278,12 @@ so no can do. Go ahead.
 
 465
 00:42:46,140 --> 00:42:48,710
-“文件已在我们这里”
+“文件已在我们这里
 "And now she's given it to us.
 
 466
 00:42:48,730 --> 00:42:51,900
-“证明是 第九页开头写着：”
+“证明是 第九页开头写着：
 In case you're doubting this, page nine starts with:
 
 467
@@ -2298,7 +2298,7 @@ All right. I understand. Go ahead.
 
 469
 00:43:01,090 --> 00:43:05,730
-“我们已给赛博育种CEO留了话”
+“我们已给赛博育种CEO留了话
 "We've left word at the office of Cybo Sementis's CEO, Mr. Franklin.
 
 470
@@ -2333,32 +2333,32 @@ And my team is tasked with returning the documents. Go ahead.
 
 476
 00:43:24,450 --> 00:43:27,180
-“我们愿意尽快归还”
+“我们愿意尽快归还
 "We wish to return them as soon as possible,"
 
 477
 00:43:27,180 --> 00:43:28,680
-“但为保护客户”
+“但为保护客户
 but in order to protect our client,
 
 478
 00:43:28,680 --> 00:43:30,590
-“我们随时准备”
+“我们随时准备
 we are ready to send them simultaneously
 
 479
 00:43:30,590 --> 00:43:33,420
-“将文件交给各个执法机构”
+“将文件交给各个执法机构
 to all appropriate law-enforcement agencies
 
 480
 00:43:33,440 --> 00:43:35,500
-“和各大媒体”
+“和各大媒体
 as well as every major media outlet
 
 481
 00:43:35,510 --> 00:43:37,260
-“若你们不...”
+“若你们不...
 if you don't fully cooperate...
 
 482
@@ -2373,22 +2373,22 @@ We'll do our best to cooperate. Go ahead.
 
 484
 00:43:41,480 --> 00:43:44,360
-“立即停止对我们客户的威胁和监视”
+“立即停止对我们客户的威胁和监视
 "There will be no more threats to our client, no surveillance,
 
 485
 00:43:44,380 --> 00:43:46,030
-“包括电话窃听”
+“包括电话窃听
 including phone taps.
 
 486
 00:43:46,050 --> 00:43:48,960
-“确认客户安全后”
+“确认客户安全后
 Once we are satisfied with our client's security,
 
 487
 00:43:48,990 --> 00:43:50,410
-“原件会归还”
+“原件会归还
 we'll return the original.
 
 488
@@ -2403,22 +2403,22 @@ How do we know to trust you? You could be anyone. Go ahead.
 
 490
 00:43:58,490 --> 00:44:00,480
-“你们也会是我们的客户”
+“你们也会是我们的客户
 "You will be our client, too."
 
 491
 00:44:00,510 --> 00:44:02,450
-“请支付保证金”
+“请支付保证金
 You will be required to pay a fee.
 
 492
 00:44:02,450 --> 00:44:04,490
-“我们同时为双方负责”
+“我们同时为双方负责
 We work for both parties to ensure
 
 493
 00:44:04,510 --> 00:44:06,270
-“确保万无一失”
+“确保万无一失
 that the job is done with no loose ends.
 
 494
@@ -2443,7 +2443,7 @@ How do we trust your client's intentions? Go ahead.
 
 498
 00:44:18,170 --> 00:44:20,170
-“你一直在窃听我们的客户”
+“你一直在窃听我们的客户
 "You were tapping our client's first calls.
 
 499
@@ -2507,42 +2507,42 @@ The surveillance van is gone. Thank you.
 
 511
 00:45:46,830 --> 00:45:49,760
-“好 现在等几天”
+“好 现在等几天
 "Good. Now we wait for a few days."
 
 512
 00:45:49,780 --> 00:45:51,930
-“保持耐心 别慌”
+“保持耐心 别慌
 You will need to be patient and stay calm.
 
 513
 00:45:51,960 --> 00:45:53,660
-“一旦他们履约”
+“一旦他们履约
 Once they fulfill their end of the deal,
 
 514
 00:45:53,680 --> 00:45:55,130
-“会在下周证监会”
+“会在下周证监会
 we'll arrange to return the documents
 
 515
 00:45:55,150 --> 00:45:57,500
-“敲定前把资料安排归还”
+“敲定前把资料安排归还
 before the SEC deadline next week.
 
 516
 00:45:57,520 --> 00:45:59,930
-“归还后您还要找个地方避避”
+“归还后您还要找个地方避避
 After that, you will need to relocate for a while.
 
 517
 00:45:59,950 --> 00:46:02,000
-“最好选择公交线路旁”
+“最好选择公交线路旁
 Ideally, somewhere in this country you can reach
 
 518
 00:46:02,020 --> 00:46:04,510
-“这样那帮人就难追踪到您”
+“这样那帮人就难追踪到您
 by public transportation so they can't track you.
 
 519
@@ -2572,7 +2572,7 @@ Um, is it okay if I spend some time outside? Go ahead.
 
 524
 00:46:23,540 --> 00:46:25,560
-“那帮人应该不会再纠缠您了”
+“那帮人应该不会再纠缠您了
 "They should leave you alone.
 
 525
@@ -2592,17 +2592,17 @@ You're not that easy to get a hold of. Go ahead.
 
 528
 00:46:35,890 --> 00:46:39,920
-“每晚六点给那个号码留言”
+“每晚六点给那个号码留言
 "After 6 p.m. each day, leave a message at the number you have."
 
 529
 00:46:40,330 --> 00:46:42,430
-“只留一个词”
+“只留一个词
 Just one word.
 
 530
 00:46:42,450 --> 00:46:45,470
-“说「天气」就表示有事”
+“说「天气」就表示有事
 If something is wrong, say, 'Weather.'
 
 531
@@ -2617,7 +2617,7 @@ If something is wrong, say, 'Weather.'
 
 533
 00:46:59,710 --> 00:47:02,300
-“听过谁人乐队吗？”
+“听过谁人乐队吗？
 "Ever listen to The Who?
 
 534
@@ -2795,22 +2795,22 @@ What do you want us to do next?
 
 569
 00:49:09,660 --> 00:49:12,980
-“把无标记的现金用隔夜达寄出”
+“把无标记的现金用隔夜达寄出
 "Send unmarked cash to P.O. Box 897,
 
 570
 00:49:12,980 --> 00:49:17,180
-“寄到 加州兰德斯 信箱897 邮编92285”
+“寄到 加州兰德斯 信箱897 邮编92285
 Landers, California, 92285, overnight priority.
 
 571
 00:49:17,180 --> 00:49:18,650
-“确认收钱后”
+“确认收钱后
 When it has been safely received,
 
 572
 00:49:18,650 --> 00:49:21,220
-“我们再下指示”
+“我们再下指示
 we will issue further instructions.
 
 573
@@ -3549,7 +3549,7 @@ I will send it to you like before. Go ahead.
 
 725
 01:02:55,200 --> 01:02:58,030
-“来不及了 我们警告过您”
+“来不及了 我们警告过您
 "Takes too long. You were warned.
 
 726
@@ -3568,17 +3568,17 @@ Please don't leave me to do this by myself.
 
 729
 01:03:46,590 --> 01:03:50,160
-“第七大道和西四十六街 交叉口有个报刊亭”
+“第七大道和西四十六街 交叉口有个报刊亭
 "There's a news stand on the corner of 7th and West 46th."
 
 730
 01:03:50,180 --> 01:03:52,970
-“把文件信封塞到左起第二堆”
+“把文件信封塞到左起第二堆
 Put the envelope in the pages of the bottom copy
 
 731
 01:03:53,000 --> 01:03:56,340
-“最下面那份《华盛顿邮报》里面”
+“最下面那份《华盛顿邮报》里面
 of The Washington Post, which is the second pile on the left.
 
 732
@@ -3782,12 +3782,12 @@ Yeah. I'm here. Go ahead.
 
 772
 01:08:14,480 --> 01:08:18,010
-“我们准备了四十套完整报告 包括附录”
+“我们准备了四十套完整报告 包括附录
 "We've got 40 copies, including the missing appendix,"
 
 773
 01:08:18,040 --> 01:08:21,940
-“准备曝光给各家媒体”
+“准备曝光给各家媒体
 ready to go to spread across the mainstream and alternative media.
 
 774
@@ -3945,32 +3945,32 @@ Hello?
 
 805
 01:09:51,460 --> 01:09:54,870
-“文件我们已拿到  交接定在周四”
+“文件我们已拿到  交接定在周四
 "We have it. We're setting the exchange for Thursday."
 
 806
 01:09:54,890 --> 01:09:57,590
-“在那之前 您每天打一次电话”
+“在那之前 您每天打一次电话
 Until then, you'll call each day once
 
 807
 01:09:57,620 --> 01:09:59,270
-“只留一句话”
+“只留一句话
 and leave a message.
 
 808
 01:09:59,290 --> 01:10:02,990
-“说「一切安好」或「天气」”
+“说「一切安好」或「天气」
 You'll say, 'All right, ' or you'll say, 'Weather.'
 
 809
 01:10:03,010 --> 01:10:04,580
-“别再多嘴”
+“别再多嘴
 Nothing more.
 
 810
 01:10:04,800 --> 01:10:07,510
-“照我们指示做”
+“照我们指示做
 You'll follow instructions because this time,
 
 811
@@ -4389,52 +4389,52 @@ Thank you, Wash.
 
 895
 01:16:07,970 --> 01:16:11,310
-“报告的原件已经以您的名字”
+“报告的原件已经以您的名字
 "The original copy of the report is waiting under your name
 
 896
 01:16:11,330 --> 01:16:14,540
-“寄到了第八街邮政总局代收处”
+“寄到了第八街邮政总局代收处
 in General Delivery at the main post office on 8th.
 
 897
 01:16:14,570 --> 01:16:16,550
-“用亚当·富兰克林的名字”
+“用亚当·富兰克林的名字
 A table is booked for Adam Franklin
 
 898
 01:16:16,570 --> 01:16:19,420
-“在今晚七点北欧盖洛餐厅留好了位”
+“在今晚七点北欧盖洛餐厅留好了位
 at Gaia & Loki restaurant at 7 p.m. tonight.
 
 899
 01:16:19,440 --> 01:16:21,420
-“坐出租去那儿 让司机等着”
+“坐出租去那儿 让司机等着
 Take a taxi there and make it wait.
 
 900
 01:16:21,440 --> 01:16:24,250
-“把报告和您收到的黄标手机带上”
+“把报告和您收到的黄标手机带上
 Bring the report and the yellow marked phone you were sent.
 
 901
 01:16:24,280 --> 01:16:26,090
-“文件交给他后”
+“文件交给他后
 When he arrives, hand him the documents,
 
 902
 01:16:26,110 --> 01:16:27,790
-“拍张你们两人的合影”
+“拍张你们两人的合影
 take a picture of the two of you,
 
 903
 01:16:27,810 --> 01:16:30,500
-“回到出租车 往城北走”
+“回到出租车 往城北走
 get back in the taxi and head uptown.
 
 904
 01:16:30,530 --> 01:16:33,160
-“之后会给您下一步指示”
+“之后会给您下一步指示
 You will receive further instructions then.
 
 905
@@ -4459,22 +4459,22 @@ the Tri-State Relay Service. Have a wonderful day.
 
 909
 01:16:47,800 --> 01:16:49,650
-“富兰克林先生必须亲自到场”
+“富兰克林先生必须亲自到场
 "Mr. Franklin must attend in person,
 
 910
 01:16:49,670 --> 01:16:51,650
-“我们的客户会要求合影”
+“我们的客户会要求合影
 and our client will need to take a photograph with him.
 
 911
 01:16:51,670 --> 01:16:53,730
-“她会把报告的原件交回”
+“她会把报告的原件交回
 She will return the original copy of the report,
 
 912
 01:16:53,750 --> 01:16:55,780
-“我们只留一份副本做保险”
+“我们只留一份副本做保险
 and we will keep a single safety copy
 
 913
@@ -4924,17 +4924,17 @@ Don't look back.
 
 1003
 01:27:40,580 --> 01:27:42,280
-“你就是你们的招数？”
+“你就是你们的招数？
 "What was your plan?"
 
 1004
 01:27:42,310 --> 01:27:44,240
-“觉得我在开玩笑？”
+“觉得我在开玩笑？
 That I was bluffing?
 
 1005
 01:27:44,270 --> 01:27:46,140
-“别指望再找到她”
+“别指望再找到她
 I'll make sure you never find her.
 
 1006
@@ -6106,7 +6106,7 @@ Till morning ♪
 ♪ Anymore
 
 1261
-01:51:40,962 --> 01:51:51,840
+01:51:40,960 --> 01:51:51,840
 蒙太奇字幕组
 用 爱 发 电 ❤️ Powered by love
 
