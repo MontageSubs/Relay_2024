@@ -188,7 +188,7 @@ Dialogue: 0,0:15:22.53,0:15:23.78,2Chi,,0,0,0,,{\be3}但...\N{\rEng\be3}But, um.
 Dialogue: 0,0:15:26.18,0:15:30.02,2Chi,,0,0,0,,{\be3}我每天看到同事们那样做事儿...\N{\rEng\be3}What I see on the daily, amongst my fellow officers...
 Dialogue: 0,0:15:30.05,0:15:31.72,2Chi,,0,0,0,,{\be3}真 真无语\N{\rEng\be3}I... I... I don't know.
 Dialogue: 0,0:15:43.74,0:15:45.72,2Chi,,0,0,0,,{\be3}两条新留言\N{\rEng\be3}Two new messages.
-Dialogue: 0,0:15:46.17,0:15:49.74,2Chi,,0,0,0,,{\be3}”我是霍夫曼 一切安好”\N{\rEng\be3}Hoffman here. All right.
+Dialogue: 0,0:15:46.17,0:15:49.74,2Chi,,0,0,0,,{\be3}“我是霍夫曼 一切安好”\N{\rEng\be3}Hoffman here. All right.
 Dialogue: 0,0:15:50.40,0:15:52.19,2Chi,,0,0,0,,{\be3}“我叫莎拉{\fn微软雅黑}·{\fn}格兰特\N{\rEng\be3}My name is Sarah Grant.
 Dialogue: 0,0:15:52.21,0:15:55.12,2Chi,,0,0,0,,{\be3}“曾在一家生物科技公司任职科学家\N{\rEng\be3}Um, I was a scientist working at a bio tech company,
 Dialogue: 0,0:15:55.15,0:15:56.86,2Chi,,0,0,0,,{\be3}“是赛博育种\N{\rEng\be3}Cybo Sementis.
@@ -212,7 +212,7 @@ Dialogue: 0,0:18:05.98,0:18:08.99,2Chi,,0,0,0,,{\be3}来电者可能有听力障
 Dialogue: 0,0:18:09.02,0:18:11.89,2Chi,,0,0,0,,{\be3}对方会打字 我负责念给您听\N{\rEng\be3}The caller will type their conversation, and I'll read it to you.
 Dialogue: 0,0:18:11.92,0:18:14.81,2Chi,,0,0,0,,{\be3}您说的话我会以文字回传\N{\rEng\be3}When it's your turn, I'll type everything you say.
 Dialogue: 0,0:18:14.83,0:18:17.48,2Chi,,0,0,0,,{\be3}请直接讲话 要我发回复时\N{\rEng\be3}Speak directly to the caller and say, "Go ahead,"
-Dialogue: 0,0:18:17.50,0:18:19.18,2Chi,,0,0,0,,{\be3}请说“请传达”\N{\rEng\be3}when you're ready for a response.
+Dialogue: 0,0:18:17.50,0:18:19.18,2Chi,,0,0,0,,{\be3}请说「请传达」\N{\rEng\be3}when you're ready for a response.
 Dialogue: 0,0:18:19.21,0:18:22.81,2Chi,,0,0,0,,{\be3}本通话不录音 严格保密\N{\rEng\be3}No calls are recorded, and everything you say is confidential.
 Dialogue: 0,0:18:23.15,0:18:25.49,2Chi,,0,0,0,,{\be3}通话马上开始 请稍等\N{\rEng\be3}One moment for your call to begin.
 Dialogue: 0,0:18:25.85,0:18:27.31,2Chi,,0,0,0,,{\be3}“您叫莎拉{\fn微软雅黑}·{\fn}伊丽莎白{\fn微软雅黑}·{\fn}格兰特”\N{\rEng\be3}"You are Sarah Elizabeth Grant.
@@ -220,7 +220,7 @@ Dialogue: 0,0:18:27.33,0:18:31.64,2Chi,,0,0,0,,{\be3}“社保号是958-00-4493�
 Dialogue: 0,0:18:36.65,0:18:39.36,2Chi,,0,0,0,,{\be3}“曾受雇于赛博育种研究所”\N{\rEng\be3}"You were employed by Cybo Sementis Research Institutes,
 Dialogue: 0,0:18:39.38,0:18:46.22,2Chi,,0,0,0,,{\be3}“公司税号99-0890590 地点在圣路易斯 对吗？”\N{\rEng\be3}tax ID 99-0890590, based in St. Louis. Is that correct?"
 Dialogue: 0,0:18:46.25,0:18:47.75,2Chi,,0,0,0,,{\be3}对\N{\rEng\be3}Yes.
-Dialogue: 0,0:18:49.27,0:18:51.04,2Chi,,0,0,0,,{\be3}说完请说“请传达”\N{\rEng\be3}If finished, please respond with "Go ahead."
+Dialogue: 0,0:18:49.27,0:18:51.04,2Chi,,0,0,0,,{\be3}说完请说「请传达」\N{\rEng\be3}If finished, please respond with "Go ahead."
 Dialogue: 0,0:18:51.06,0:18:53.79,2Chi,,0,0,0,,{\be3}抱歉 抱歉 请传达\N{\rEng\be3}Oh, I'm sorry. I'm sorry. I'm sorry. Go ahead.
 Dialogue: 0,0:18:54.21,0:18:58.00,2Chi,,0,0,0,,{\be3}“请把情况说明一下”\N{\rEng\be3}"Please explain your situation."
 Dialogue: 0,0:18:59.25,0:19:05.81,2Chi,,0,0,0,,{\be3}我在一个项目里 研究抗虫小麦新品种\N{\rEng\be3}I was in a research group developing a new strain of insect-resistant wheat.
@@ -272,7 +272,7 @@ Dialogue: 0,0:21:46.14,0:21:48.75,2Chi,,0,0,0,,{\be3}“楼下停着辆大面包
 Dialogue: 0,0:21:48.77,0:21:51.02,2Chi,,0,0,0,,{\be3}“我觉得他们在监视我 请传达”\N{\rEng\be3}I think they're watching me. Go ahead.
 Dialogue: 0,0:21:51.04,0:21:55.29,2Chi,,0,0,0,,{\be3}找到了 扬克斯东大道339号\N{\rEng\be3}Okay. 339 East Avenue, Yonkers, New York.
 Dialogue: 0,0:21:55.31,0:21:57.12,2Chi,,0,0,0,,{\be3}“今后只用新手机联系”\N{\rEng\be3}"Only use your new phone."
-Dialogue: 0,0:21:57.14,0:22:00.22,2Chi,,0,0,0,,{\be3}晚上外勤 谁来？\N{\rEng\be3}Night shift. Who's coming?
+Dialogue: 0,0:21:57.14,0:22:00.22,2Chi,,0,0,0,,{\be3}夜班外勤 谁来？\N{\rEng\be3}Night shift. Who's coming?
 Dialogue: 0,0:22:32.12,0:22:35.89,2Chi,,0,0,0,,{\be3}《1990年美国残疾人法》第225条规定\N{\rEng\be3}The Americans with Disabilities Act of 1990, Section 225,
 Dialogue: 0,0:22:35.92,0:22:38.11,2Chi,,0,0,0,,{\be3}传话通讯运营方不得泄露\N{\rEng\be3}prohibits relay operators from disclosing the content
 Dialogue: 0,0:22:38.13,0:22:40.18,2Chi,,0,0,0,,{\be3}任何传呼通话的内容\N{\rEng\be3}of any relayed conversation
@@ -405,7 +405,7 @@ Dialogue: 0,0:34:56.55,0:34:57.92,2Chi,,0,0,0,,{\be3}“在”\N{\rEng\be3}"Yes.
 Dialogue: 0,0:34:59.15,0:35:02.09,2Chi,,0,0,0,,{\be3}那你们也在那儿吗？请传达\N{\rEng\be3}So, you were, too? Go ahead.
 Dialogue: 0,0:35:05.25,0:35:07.18,2Chi,,0,0,0,,{\be3}“不要主动联系那帮人”\N{\rEng\be3}"Do not contact them yourself."
 Dialogue: 0,0:35:07.20,0:35:09.65,2Chi,,0,0,0,,{\be3}“他们找您也别回应”\N{\rEng\be3}Do not respond if they contact you.
-Dialogue: 0,0:35:09.68,0:35:12.75,2Chi,,0,0,0,,{\be3}“他们可能恐吓您 也可能想谈交易易”\N{\rEng\be3}They may try to scare you, and they may try to make a deal.
+Dialogue: 0,0:35:09.68,0:35:12.75,2Chi,,0,0,0,,{\be3}“他们可能恐吓您 也可能想谈交易”\N{\rEng\be3}They may try to scare you, and they may try to make a deal.
 Dialogue: 0,0:35:12.77,0:35:14.77,2Chi,,0,0,0,,{\be3}“我是您唯一的出路”\N{\rEng\be3}But this is the only deal.
 Dialogue: 0,0:35:14.79,0:35:18.00,2Chi,,0,0,0,,{\be3}“包裹一到 我们会跟他们谈判”\N{\rEng\be3}Once the packages arrive, we will make them an offer.
 Dialogue: 0,0:35:18.02,0:35:21.61,2Chi,,0,0,0,,{\be3}“那之后您要见面他们一次 把东西还回去”\N{\rEng\be3}"You're going to meet them once to make the return yourself."
@@ -593,7 +593,7 @@ Dialogue: 0,0:49:09.66,0:49:12.98,2Chi,,0,0,0,,{\be3}“把无标记的现金用
 Dialogue: 0,0:49:12.98,0:49:17.18,2Chi,,0,0,0,,{\be3}“寄到 加州兰德斯 信箱897 邮编92285”\N{\rEng\be3}Landers, California, 92285, overnight priority.
 Dialogue: 0,0:49:17.18,0:49:18.65,2Chi,改,0,0,0,,{\be3}“确认收钱后”\N{\rEng\be3}When it has been safely received,
 Dialogue: 0,0:49:18.65,0:49:21.22,2Chi,,0,0,0,,{\be3}“我们再下指示”\N{\rEng\be3}we will issue further instructions.
-Dialogue: 0,0:49:21.24,0:49:24.90,2Chi,,0,0,0,,{\be3}“要是拖延 文件就曝光”\N{\rEng\be3}"Any delay and the document goes public."
+Dialogue: 0,0:49:21.24,0:49:24.90,2Chi,,0,0,0,,{\be3}“要是拖延 文件就会曝光”\N{\rEng\be3}"Any delay and the document goes public."
 Dialogue: 0,0:49:24.92,0:49:26.35,2Chi,,0,0,0,,{\be3}来电者已挂断\N{\rEng\be3}Your caller has hung up.
 Dialogue: 0,0:49:26.38,0:49:30.19,2Chi,,0,0,0,,{\be3}感谢使用大都会传呼 祝您生活愉快\N{\rEng\be3}Thank you for using the Tri-State Relay Service. And have a wonderful day.
 Dialogue: 0,0:49:30.61,0:49:32.30,2Chi,,0,0,0,,{\be3}真不要脸\N{\rEng\be3}He's brazen.
@@ -754,7 +754,7 @@ Dialogue: 0,1:05:52.73,1:05:56.26,2Chi,,0,0,0,,{\be3}“《华盛顿邮报》是
 Dialogue: 0,1:05:56.28,1:05:58.21,2Chi,,0,0,0,,{\be3}左起第二堆吗\N{\rEng\be3}Second from the left.
 Dialogue: 0,1:05:59.51,1:06:01.53,2Chi,,0,0,0,,{\be3}真对不起\N{\rEng\be3}I'm so sorry.
 Dialogue: 0,1:06:01.69,1:06:06.17,2Chi,,0,0,0,,{\be3}太匆忙了 我这就去重新放\N{\rEng\be3}Everything happened so fast. Um, I'll come back for it.
-Dialogue: 0,1:06:07.50,1:06:11.59,2Chi,,0,0,0,,{\be3}“到那会儿就没了 你知道有人在跟踪你吗？”\N{\rEng\be3}"It'll be gone by then. Did you know you were being followed?"
+Dialogue: 0,1:06:07.50,1:06:11.59,2Chi,,0,0,0,,{\be3}“太迟了 你知道有人在跟踪你吗？”\N{\rEng\be3}"It'll be gone by then. Did you know you were being followed?"
 Dialogue: 0,1:06:11.62,1:06:13.55,2Chi,,0,0,0,,{\be3}不知道 我以为那帮人停手了\N{\rEng\be3}No. I thought they stopped that.
 Dialogue: 0,1:06:13.57,1:06:15.47,2Chi,,0,0,0,,{\be3}真的很抱歉 是我的错\N{\rEng\be3}I'm so sorry. It's my fault.
 Dialogue: 0,1:06:15.88,1:06:17.44,2Chi,,0,0,0,,{\be3}别撒手啊\N{\rEng\be3}Don't walk away.
@@ -891,7 +891,7 @@ Dialogue: 0,1:15:06.19,1:15:08.94,2Chi,,0,0,0,,{\be3}我确实很懦弱 是真�
 Dialogue: 0,1:15:09.04,1:15:11.49,2Chi,,0,0,0,,{\be3}昨晚有人打电话给我\N{\rEng\be3}I got a call from someone last night,
 Dialogue: 0,1:15:11.52,1:15:15.96,2Chi,,0,0,0,,{\be3}他听起来完全...崩溃...\N{\rEng\be3}and he just sounded so... lost...
 Dialogue: 0,1:15:17.62,1:15:19.81,2Chi,,0,0,0,,{\be3}无助\N{\rEng\be3}and broken.
-Dialogue: 0,1:15:20.87,1:15:24.92,2Chi,,0,0,0,,{\be3}老实说 我觉得他熬不过了\N{\rEng\be3}And I don't think he's gonna make it, honestly.
+Dialogue: 0,1:15:20.87,1:15:24.92,2Chi,,0,0,0,,{\be3}老实说 我觉得他熬不过去了\N{\rEng\be3}And I don't think he's gonna make it, honestly.
 Dialogue: 0,1:15:26.83,1:15:30.76,2Chi,,0,0,0,,{\be3}我不想最后落到那样的结局\N{\rEng\be3}I don't wanna end up like that.
 Dialogue: 0,1:15:36.52,1:15:38.02,2Chi,,0,0,0,,{\be3}谢谢你 沃什\N{\rEng\be3}Thank you, Wash.
 Dialogue: 0,1:16:07.97,1:16:11.31,2Chi,,0,0,0,,{\be3}“报告的原件已经以您的名字”\N{\rEng\be3}"The original copy of the report is waiting under your name
@@ -902,12 +902,12 @@ Dialogue: 0,1:16:19.44,1:16:21.42,2Chi,,0,0,0,,{\be3}“坐出租去那儿 让�
 Dialogue: 0,1:16:21.44,1:16:24.25,2Chi,改,0,0,0,,{\be3}“把报告和您收到的黄标手机带上”\N{\rEng\be3}Bring the report and the yellow marked phone you were sent.
 Dialogue: 0,1:16:24.28,1:16:26.09,2Chi,,0,0,0,,{\be3}“文件交给他后”\N{\rEng\be3}When he arrives, hand him the documents,
 Dialogue: 0,1:16:26.11,1:16:27.79,2Chi,,0,0,0,,{\be3}“拍张你们两人的合影”\N{\rEng\be3}take a picture of the two of you,
-Dialogue: 0,1:16:27.81,1:16:30.50,2Chi,,0,0,0,,{\be3}“回到出租车 往城北走”\N{\rEng\be3}get back in the taxi and head uptown.
+Dialogue: 0,1:16:27.81,1:16:30.50,2Chi,,0,0,0,,{\be3}“回到出租车 往上城走”\N{\rEng\be3}get back in the taxi and head uptown.
 Dialogue: 0,1:16:30.53,1:16:33.16,2Chi,,0,0,0,,{\be3}“之后会给您下一步指示”\N{\rEng\be3}You will receive further instructions then.
 Dialogue: 0,1:16:33.18,1:16:34.62,2Chi,,0,0,0,,{\be3}“明白了吗？”\N{\rEng\be3}"Do you understand?"
 Dialogue: 0,1:16:34.65,1:16:36.99,2Chi,,0,0,0,,{\be3}明白了 请传达\N{\rEng\be3}Yes, I do. Go ahead.
 Dialogue: 0,1:16:37.22,1:16:38.93,2Chi,,0,0,0,,{\be3}来电者已挂断 感谢使用\N{\rEng\be3}Your caller has hung up. Thank you for using
-Dialogue: 0,1:16:38.95,1:16:42.13,2Chi,,0,0,0,,{\be3}大都会传呼中心 祝您生活愉快\N{\rEng\be3}the Tri-State Relay Service. Have a wonderful day.
+Dialogue: 0,1:16:38.95,1:16:42.13,2Chi,,0,0,0,,{\be3}大都会传呼 祝您生活愉快\N{\rEng\be3}the Tri-State Relay Service. Have a wonderful day.
 Dialogue: 0,1:16:47.80,1:16:49.65,2Chi,,0,0,0,,{\be3}“富兰克林先生必须亲自到场”\N{\rEng\be3}"Mr. Franklin must attend in person,
 Dialogue: 0,1:16:49.67,1:16:51.65,2Chi,,0,0,0,,{\be3}“我们的客户会要求合影”\N{\rEng\be3}and our client will need to take a photograph with him.
 Dialogue: 0,1:16:51.67,1:16:53.73,2Chi,,0,0,0,,{\be3}“她会把报告的原件交回”\N{\rEng\be3}She will return the original copy of the report,
@@ -930,7 +930,7 @@ Dialogue: 0,1:18:19.32,1:18:20.87,2Chi,,0,0,0,,{\be3}你得赶快跑 别回来\N
 Dialogue: 0,1:18:20.90,1:18:23.24,2Chi,,0,0,0,,{\be3}- 不 不 不 不 不 - 我在时报广场搞砸了\N{\rEng\be3}- No, no, no, no, no. - I screwed up in Times Square,
 Dialogue: 0,1:18:23.26,1:18:25.29,2Chi,,0,0,0,,{\be3}所以我要亲自来交接\N{\rEng\be3}so I'm gonna do this handover myself.
 Dialogue: 0,1:18:25.31,1:18:26.51,2Chi,,0,0,0,,{\be3}见鬼！\N{\rEng\be3}Fuck!
-Dialogue: 0,1:18:26.54,1:18:30.53,2Chi,,0,0,0,,{\be3}市政礼堂有一场舒伯特钢琴音乐会\N{\rEng\be3}There's a concert of Schubert's Piano Trios at town hall.
+Dialogue: 0,1:18:26.54,1:18:30.53,2Chi,,0,0,0,,{\be3}市政礼堂有一场舒伯特音乐会\N{\rEng\be3}There's a concert of Schubert's Piano Trios at town hall.
 Dialogue: 0,1:18:30.56,1:18:32.44,2Chi,,0,0,0,,{\be3}公共场合 就像你教我的\N{\rEng\be3}It's public, like you said it should be.
 Dialogue: 0,1:18:32.47,1:18:33.11,2Chi,,0,0,0,,{\be3}该死！\N{\rEng\be3}Fuck!
 Dialogue: 0,1:18:33.13,1:18:36.43,2Chi,,0,0,0,,{\be3}那帮人叫我别告诉你 但我必须说\N{\rEng\be3}They told me not to tell you, but I needed to.
@@ -1019,13 +1019,13 @@ Dialogue: 0,1:28:34.04,1:28:35.83,2Chi,,0,0,0,,{\be3}- 替我冷静一下 - 别�
 Dialogue: 0,1:28:35.86,1:28:37.29,2Chi,,0,0,0,,{\be3}手机给我\N{\rEng\be3}Give it here.
 Dialogue: 0,1:28:38.83,1:28:42.21,2Chi,,0,0,0,,{\be3}现在照我们的指示做 懂吗？\N{\rEng\be3}You're going to do what we say now. You understand?
 Dialogue: 0,1:28:42.23,1:28:43.74,2Chi,,0,0,0,,{\be3}放了她 行不？\N{\rEng\be3}Listen, let her go. All right?
-Dialogue: 0,1:28:43.76,1:28:47.32,2Chi,,0,0,0,,{\be3}不然所有的文件都会曝光  听见没？\N{\rEng\be3}The documents are going out, all of them. You hear me?
+Dialogue: 0,1:28:43.76,1:28:47.32,2Chi,,0,0,0,,{\be3}不然所有的文件都会曝光 听见没？\N{\rEng\be3}The documents are going out, all of them. You hear me?
 Dialogue: 0,1:28:47.34,1:28:48.83,2Chi,,0,0,0,,{\be3}那又怎样？\N{\rEng\be3}And then what, huh?
 Dialogue: 0,1:28:48.86,1:28:51.23,2Chi,,0,0,0,,{\be3}指望记者或读者关心？\N{\rEng\be3}The idea of journalists or their readers actually caring,
 Dialogue: 0,1:28:51.25,1:28:53.14,2Chi,,0,0,0,,{\be3}可爱又幼稚的幻想\N{\rEng\be3}it's a cute, liberal fantasy.
 Dialogue: 0,1:28:53.16,1:28:55.31,2Chi,,0,0,0,,{\be3}多数媒体跟我们合作\N{\rEng\be3}Most of the media work with us anyway,
 Dialogue: 0,1:28:55.33,1:28:57.05,2Chi,,0,0,0,,{\be3}不会急着发\N{\rEng\be3}so they won't publish in a hurry.
-Dialogue: 0,1:28:57.05,1:28:59.46,2Chi,改,0,0,0,,{\be3}剩下的不过是网上的谣言\N{\rEng\be3}And that leaves the conspiracy theorists on social media.
+Dialogue: 0,1:28:57.05,1:28:59.46,2Chi,改,0,0,0,,{\be3}只能发网上当谣言了\N{\rEng\be3}And that leaves the conspiracy theorists on social media.
 Dialogue: 0,1:28:59.49,1:29:00.39,2Chi,,0,0,0,,{\be3}祝好运\N{\rEng\be3}Good luck with that.
 Dialogue: 0,1:29:00.41,1:29:03.50,2Chi,,0,0,0,,{\be3}执法机关可是火眼金睛\N{\rEng\be3}Guess what. Law enforcement is gonna be reading more closely,
 Dialogue: 0,1:29:03.53,1:29:04.95,2Chi,,0,0,0,,{\be3}别想惹我 懂吗？\N{\rEng\be3}so don't fucking push me, all right?
@@ -1038,14 +1038,14 @@ Dialogue: 0,1:29:18.48,1:29:20.00,2Chi,,0,0,0,,{\be3}你听话也能保住命\N{
 Dialogue: 0,1:29:20.02,1:29:21.47,2Chi,,0,0,0,,{\be3}你们王八蛋想什么的？\N{\rEng\be3}You gotta be out your fucking mind.
 Dialogue: 0,1:29:21.50,1:29:23.55,2Chi,,0,0,0,,{\be3}我不能危及别的客户\N{\rEng\be3}I have other clients to consider.
 Dialogue: 0,1:29:23.58,1:29:26.33,2Chi,,0,0,0,,{\be3}你真以为你还有得选？\N{\rEng\be3}You really think you have a choice?
-Dialogue: 0,1:30:59.53,1:31:00.80,2Chi,,0,0,0,,{\be3}喂\N{\rEng\be3}Yeah?
+Dialogue: 0,1:30:59.53,1:31:00.80,2Chi,,0,0,0,,{\be3}说\N{\rEng\be3}Yeah?
 Dialogue: 0,1:31:01.89,1:31:04.18,2Chi,,0,0,0,,{\be3}行 我照办\N{\rEng\be3}Yeah, I'll do it.
 Dialogue: 0,1:31:04.20,1:31:06.40,2Chi,,0,0,0,,{\be3}带你们去拿所有档案\N{\rEng\be3}I'll take you to all the records. I'll do it.
 Dialogue: 0,1:31:06.42,1:31:08.40,2Chi,,0,0,0,,{\be3}好 很好\N{\rEng\be3}That's good. That's very good.
 Dialogue: 0,1:31:08.63,1:31:12.49,2Chi,,0,0,0,,{\be3}明早天一亮 到你客户的公寓来\N{\rEng\be3}Dawn tomorrow, you come to your client's apartment.
 Dialogue: 0,1:32:20.21,1:32:21.85,2Chi,,0,0,0,,{\be3}莎拉 你还好吧？\N{\rEng\be3}Sarah, you okay?
 Dialogue: 0,1:32:21.88,1:32:23.21,2Chi,,0,0,0,,{\be3}我还好\N{\rEng\be3}I'm fine.
-Dialogue: 0,1:32:27.43,1:32:28.92,2Chi,,0,0,0,,{\be3}文件地址在哪？\N{\rEng\be3}Where's the documents?
+Dialogue: 0,1:32:27.43,1:32:28.92,2Chi,,0,0,0,,{\be3}文件在哪？\N{\rEng\be3}Where's the documents?
 Dialogue: 0,1:32:28.95,1:32:30.68,2Chi,,0,0,0,,{\be3}你放了她 我就说\N{\rEng\be3}You let her go, I'll tell you.
 Dialogue: 0,1:32:34.06,1:32:35.73,2Chi,,0,0,0,,{\be3}别打了\N{\rEng\be3}Stop.
 Dialogue: 0,1:32:36.10,1:32:38.40,2Chi,,0,0,0,,{\be3}想拿文件就得让我们俩都活着\N{\rEng\be3}You want the documents, you need us both alive.
@@ -1119,7 +1119,7 @@ Dialogue: 0,0:07:00.67,0:07:07.29,3Note,,0,0,0,,{\an9}（警告 此处全天监�
 Dialogue: 0,0:07:35.01,0:07:36.98,3Note,,0,0,0,,{\an8\fs18\fn思源宋体\shad0\bord0\b1\c&H212325&\pos(105,4)}（进度 霍夫曼和奥蒂莫制药已完成）
 Dialogue: 0,0:08:09.54,0:08:11.95,3Note,,0,0,0,,{\be3}（禁止入内 请勿吸烟）
 Dialogue: 0,0:09:12.71,0:09:14.44,3Note,,0,0,0,,{\be3}（奥蒂莫制药）
-Dialogue: 0,0:09:19.64,0:09:22.46,3Note,,0,0,0,,{\be3}（肯尼迪动产公司 / 纳特金斯制药 / 钢业化工商联会 / 州政府 / ZT生物科技）
+Dialogue: 0,0:09:19.64,0:09:22.46,3Note,,0,0,0,,{\be3}（肯尼迪动产公司 / 纳特金斯制药 / 钢业化工 / 商联会 / 州政府 / ZT生物科技）
 Dialogue: 0,0:09:22.46,0:09:24.14,3Note,,0,0,0,,{\be3}（奥蒂莫制药）
 Dialogue: 0,0:09:43.56,0:09:48.65,3Note,,0,0,0,,{\be3}（收件人 纽约时报）
 Dialogue: 0,0:16:48.75,0:16:53.88,3Note,,0,0,0,,{\be3}（莎拉{\fn微软雅黑}·{\fn}格兰特 工作社交网站）
