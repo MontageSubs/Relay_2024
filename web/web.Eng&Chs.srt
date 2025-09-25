@@ -3817,7 +3817,7 @@ with a document that contains sensitive material.
 779
 01:08:29,430 --> 01:08:33,000
 You wouldn't know that if you weren't following her.
-“没跟踪怎么会知道她去哪里”
+“没跟踪怎么会知道她去哪里
 
 780
 01:08:33,030 --> 01:08:34,860
@@ -3837,12 +3837,12 @@ And we'll do exactly as you say from now on. Go ahead.
 783
 01:08:39,700 --> 01:08:41,890
 "The handover will be between our client"
-“交接由我们的客户和”
+“交接由我们的客户和
 
 784
 01:08:41,910 --> 01:08:45,100
 and your CEO, Franklin, in person,
-“你们的CEO富兰克林当面完成”
+“你们的CEO富兰克林当面完成
 
 785
 01:08:45,130 --> 01:08:49,880
