@@ -429,7 +429,7 @@ Dialogue: 0,0:37:21.97,0:37:23.71,2Chi,,0,0,0,,{\be3}但一无所获\N{\rEng\be3
 Dialogue: 0,0:37:23.74,0:37:26.34,2Chi,,0,0,0,,{\be3}你呢？密歇根那边怎样？\N{\rEng\be3}What about you? How's Michigan treating you?
 Dialogue: 0,0:37:26.36,0:37:28.77,2Chi,,0,0,0,,{\be3}我猜比你那鸟不拉屎的地方好\N{\rEng\be3}I'm guessing better than Bumfuck, Oklahoma.
 Dialogue: 0,0:37:28.80,0:37:32.74,2Chi,,0,0,0,,{\be3}- 哈哈 可不是么 - 这儿环境可好了\N{\rEng\be3}- Damn. - It's really pretty.
-Dialogue: 0,0:37:40.84,0:37:43.72,2Chi,,0,0,0,,{\be3}- 您好 - 嗨 我来替朋友阿奇取个邮件\N{\rEng\be3}- Hi. - Hi. I wanna pick up a package for my friend Archie.
+Dialogue: 0,0:37:40.84,0:37:43.72,2Chi,,0,0,0,,{\be3}- 你好 - 嗨 我来替朋友阿奇取个邮件\N{\rEng\be3}- Hi. - Hi. I wanna pick up a package for my friend Archie.
 Dialogue: 0,0:37:43.75,0:37:45.44,2Chi,,0,0,0,,{\be3}521号信箱\N{\rEng\be3}He's got box 521.
 Dialogue: 0,0:37:45.47,0:37:48.11,2Chi,,0,0,0,,{\be3}我有运单号 但钥匙忘带了\N{\rEng\be3}I have the tracking number, but I forgot the key.
 Dialogue: 0,0:37:48.13,0:37:50.83,2Chi,,0,0,0,,{\be3}能麻烦帮我拿一下吗？\N{\rEng\be3}Would you be able just to grab it for me?
@@ -1384,7 +1384,7 @@ Dialogue: 0,1:48:35.58,1:48:41.07,5Music,,0,0,0,,♪ I don't sleep anymore
 Dialogue: 0,1:48:42.03,1:48:44.31,5Music,,0,0,0,,♪ Anymore
 Dialogue: 0,1:48:45.21,1:48:50.87,5Music,,0,0,0,,♪ Anymore
 Comment: 0,1:50:30.85,1:50:40.61,5Music,,0,0,0,,片尾-电影所用音乐列表
-Dialogue: 0,1:51:40.96,1:51:51.84,Default,,0,0,0,,蒙太奇字幕组\N{\fs11}用 爱 发 电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\1c00AAAAAA\blur0\shad0\bord0\fs11} Powered by love
+Dialogue: 0,1:51:40.96,1:51:51.84,2Chi,,0,0,0,,蒙太奇字幕组\N{\fs11}用 爱 发 电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\1c00AAAAAA\blur0\shad0\bord0\fs11} Powered by love
 
 [Aegisub Extradata]
 Data: 2,a-mo,e{"originalText"#3A"{\\an6\\b1\\i1\\fs17\\c&H462B00&\\pos(75#2C113)}#E7#BE#8E#E5#9B#BD#E9#82#AE#E6#94#BF"#2C"uuid"#3A"951f0605-41e8-47d2-ab54-5c9bc27fcf83"}
