@@ -42,23 +42,24 @@
   - [📝 署名信息 / Attribution](#署名信息)
 
 
-<!--
+
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
 
 <table>
   <tr>
     <th>字幕库</th>
     <th>SubHD</th>
-    <th>OpenSubtitles</th>
+    <th>OpenSubtitles ass格式</th>
+    <th>OpenSubtitles srt 格式</th>
   </tr>
   <tr>
-    <td><a href="https://zimuku.org/detail/219454.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
-    <td><a href="https://subhd.tv/a/597356"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
+    <td><a href="https://zimuku.org/detail/219704.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.tv/a/597848"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13290613/relay-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13290641/relay-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
   </tr>
 </table>
 
--->
 
 <h2 id="字幕进度">⏳ 字幕进度</h2>
 
