@@ -405,7 +405,7 @@ Dialogue: 0,0:34:59.15,0:35:02.09,2Chi,,0,0,0,,{\be3}那你们也在那儿吗？
 Dialogue: 0,0:35:05.25,0:35:07.18,2Chi,,0,0,0,,{\be3}“不要主动联系那帮人\N{\rEng\be3}"Do not contact them yourself."
 Dialogue: 0,0:35:07.20,0:35:09.65,2Chi,,0,0,0,,{\be3}“他们找您也别回应\N{\rEng\be3}Do not respond if they contact you.
 Dialogue: 0,0:35:09.68,0:35:12.75,2Chi,,0,0,0,,{\be3}“他们可能恐吓您 也可能想谈交易\N{\rEng\be3}They may try to scare you, and they may try to make a deal.
-Dialogue: 0,0:35:12.77,0:35:14.77,2Chi,,0,0,0,,{\be3}“我是您唯一的出路”N{\rEng\be3}But this is the only deal.
+Dialogue: 0,0:35:12.77,0:35:14.77,2Chi,,0,0,0,,{\be3}“我是您唯一的出路\N{\rEng\be3}But this is the only deal.
 Dialogue: 0,0:35:14.79,0:35:18.00,2Chi,,0,0,0,,{\be3}“包裹一到 我们会跟他们谈判\N{\rEng\be3}Once the packages arrive, we will make them an offer.
 Dialogue: 0,0:35:18.02,0:35:21.61,2Chi,,0,0,0,,{\be3}“那之后您要见面他们一次 把东西还回去”\N{\rEng\be3}"You're going to meet them once to make the return yourself."
 Dialogue: 0,0:35:21.64,0:35:24.18,2Chi,,0,0,0,,{\be3}非得去吗？请传达\N{\rEng\be3}Do I have to? Go ahead.
@@ -471,7 +471,7 @@ Dialogue: 0,0:40:32.38,0:40:37.05,2Chi,,0,0,0,,{\be3}“食品安全评估交给
 Dialogue: 0,0:40:37.07,0:40:41.48,2Chi,,0,0,0,,{\be3}“文件有311页 带两个附录\N{\rEng\be3}It is 311 pages long and contains two appendices.
 Dialogue: 0,0:40:41.50,0:40:45.29,2Chi,,0,0,0,,{\be3}“只要你们无条件承诺别再骚扰她\N{\rEng\be3}In exchange for your unconditional agreement to leave her alone,
 Dialogue: 0,0:40:45.31,0:40:47.12,2Chi,,0,0,0,,{\be3}“我们客户愿意归还文件\N{\rEng\be3}our client would like to return this document
-Dialogue: 0,0:40:47.14,0:40:49.31,2Chi,,0,0,0,,{\be3}“并保证永不提及\N{\rEng\be3}"and agree never to mention it again."
+Dialogue: 0,0:40:47.14,0:40:49.31,2Chi,,0,0,0,,{\be3}“并保证永不提及”\N{\rEng\be3}"and agree never to mention it again."
 Dialogue: 0,0:41:44.57,0:41:46.54,2Chi,,0,0,0,,{\be3}“我们客户愿意归还文件\N{\rEng\be3}"Our client would like to return this document
 Dialogue: 0,0:41:46.56,0:41:48.47,2Chi,,0,0,0,,{\be3}“并保证永不提及\N{\rEng\be3}and agree never to mention it again.
 Dialogue: 0,0:41:48.50,0:41:52.05,2Chi,,0,0,0,,{\be3}“与她的一切沟通由我们代表\N{\rEng\be3}All communication with her must come through us.
@@ -1169,7 +1169,6 @@ Dialogue: 0,1:09:43.28,1:09:44.25,3Note,,0,0,0,,{\be3}{\c&HFFE562&}（请讲）
 Dialogue: 0,1:10:22.81,1:10:24.41,3Note,,0,0,0,,{\be3}（赛博育种 评估报告）
 Dialogue: 0,1:10:30.74,1:10:33.19,3Note,,0,0,0,,{\be3}（收件人 莎拉{\fn微软雅黑}·{\fn}格兰特）
 Dialogue: 0,1:10:33.22,1:10:34.57,3Note,,0,0,0,,{\be3}（赛博育种）
-Dialogue: 0,1:10:37.42,1:10:40.53,3Note,,0,0,0,,{\be3}（北欧盖洛餐厅）
 Dialogue: 0,1:11:19.71,1:11:23.65,3Note,,0,0,0,,{\be3}（运单查询 您的包裹已送达波基普西）
 Dialogue: 0,1:11:25.80,1:11:29.74,3Note,,0,0,0,,{\be3}（运单查询 您的包裹已送达波基普西）
 Dialogue: 0,1:17:25.02,1:17:29.53,3Note,,0,0,0,,{\be3}（北欧盖洛餐厅）
